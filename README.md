@@ -16,6 +16,6 @@ The model has been pre-trained on the Imagenet ILSVRC classification task and fi
 
 # Project Overview
 
-1**Initialize Model and Load Pre-trained Weights:**:- Define the pre-trained model URL or file path. | Load the pre-trained semantic segmentation model using a deep learning framework (e.g., TensorFlow, PyTorch).
-2.**Load and Preprocess Images:**:- Specify the directory containing the input images for segmentation. | Use a convenience function to load and preprocess images, ensuring proper resizing and normalization.
-
+1. **Initialize Model and Load Pre-trained Weights:**:- Define the pre-trained model URL or file path. | Load the pre-trained semantic segmentation model using a deep learning framework (e.g., TensorFlow, PyTorch).
+2. **Load and Preprocess Images:**:- Specify the directory containing the input images for segmentation. | Use a convenience function to load and preprocess images, ensuring proper resizing and normalization.
+3. 
