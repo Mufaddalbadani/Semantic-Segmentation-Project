@@ -1,4 +1,4 @@
-# Semantic-Segmentation-Project
+# 🛣️:Semantic-Segmentation-Project
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,8 +14,11 @@ The model has been pre-trained on the Imagenet ILSVRC classification task and fi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Project Overview
+# 🟢:Project Overview
 
 1. **Initialize Model and Load Pre-trained Weights:**:- Define the pre-trained model URL or file path. | Load the pre-trained semantic segmentation model using a deep learning framework (e.g., TensorFlow, PyTorch).
 2. **Load and Preprocess Images:**:- Specify the directory containing the input images for segmentation. | Use a convenience function to load and preprocess images, ensuring proper resizing and normalization.
-3. 
+3. **Define Class Index**:- Define a class index mapping class IDs to RGB color labels. | This mapping will be used to convert model output to a color-coded segmentation mask.
+4. **Run Inference (Forward Pass)**:-Iterate through the preprocessed images. | Use the pre-trained model to perform a forward pass and obtain segmentation masks. | Remove any background class if added by the model.
+5. **Visualize Results**:-Create a visualization function to display the original image, predicted segmentation mask, and an overlay of the mask on the original image.
+6. **Advancements/Updates**:- **Adjust Parameters and Fine-tuning**:- Hyperparameters and post-processing techniques to improve the segmentation performance.
