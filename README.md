@@ -32,4 +32,6 @@ The image below showcases the predicted mask of road and sky in the image. Displ
 This image below shocases the grayscale segmentation and color segmentation for the image. Diffrent colors represent diffrent classes
 ![Asset 2 (2)](https://github.com/Mufaddalbadani/Image-Segmentation-Project/assets/62328487/82c95022-ca9f-424c-959c-1b26cab73a98)
 
-The image below showcases the 
+The image below showcases the colored predicted mask and ovelay of the predicted mask on the original image.
+![Asset 7](https://github.com/Mufaddalbadani/Image-Segmentation-Project/assets/62328487/21a201e2-7564-435a-b96b-3ab7f921976b)
+
