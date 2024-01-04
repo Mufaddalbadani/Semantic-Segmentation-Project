@@ -26,7 +26,7 @@ The model has been pre-trained on the Imagenet ILSVRC classification task and fi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Output**
 
-The Image below showcases the predicted mask of road and sky in the image.
+The Image below showcases the predicted mask of road and sky in the image. Displays how well the model segments diffrent classes.
 ![Asset 2](https://github.com/Mufaddalbadani/Image-Segmentation-Project/assets/62328487/099c85e1-4ad8-4d60-99a9-ef844a702ef6)
 
 This image below shocases the 
