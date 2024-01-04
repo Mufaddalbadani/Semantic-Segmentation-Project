@@ -22,3 +22,11 @@ The model has been pre-trained on the Imagenet ILSVRC classification task and fi
 4. **Run Inference (Forward Pass)**:-Iterate through the preprocessed images. | Use the pre-trained model to perform a forward pass and obtain segmentation masks. | Remove any background class if added by the model.
 5. **Visualize Results**:-Create a visualization function to display the original image, predicted segmentation mask, and an overlay of the mask on the original image.
 6. **Advancements/Updates**:- **Adjust Parameters and Fine-tuning**:- Hyperparameters and post-processing techniques to improve the segmentation performance.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Output**
+
+The Image below showcases the predicted mask of road and sky in the image.
+![Asset 2](https://github.com/Mufaddalbadani/Image-Segmentation-Project/assets/62328487/099c85e1-4ad8-4d60-99a9-ef844a702ef6)
+
+This image below shocases the 
