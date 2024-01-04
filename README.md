@@ -11,6 +11,7 @@ The primary goal of TensorFlow Hub is to simplify the process of reusing existin
 **Model**
 Tensorflow has many different pre-trained model, here I have used High-Resolution Network (HRNet) segmentation model trained on CamVid (camvid-hrnetv2-w48)
 The model has been pre-trained on the Imagenet ILSVRC classification task and fine-tuned on CamVid.
+model_url = "https://tfhub.dev/google/HRNet/camvid-hrnetv2-w48/1"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
